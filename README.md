@@ -1,5 +1,6 @@
 # LLM-Council-Processing_GenAI_Project
 **Marwan BENNIS - Lisa CHARUEL A5DIA2**
+
 Projet de **LLM Council local** inspiré du concept d'Andrej Karpathy : plusieurs modèles de langage qui tournent en local vont collaborer pour répondre à une questiion en 3 étapes.
 
 ## Installation 
@@ -80,4 +81,5 @@ L’inférence est réalisée 100% en local via Ollama, avec une architecture pr
 ![Screen1](assets/screenshot1.png)
 ![Screen2](assets/screenshot2.png)
 ![Screen3](assets/screenshot3.png)
+
 ![Screen4](assets/screenshot4.png)
